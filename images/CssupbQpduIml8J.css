@@ -1,0 +1,24 @@
+BODY {
+	MARGIN: 0px auto; FONT-FAMILY: yahei,'ÑÅºÚ','Î¢ÈíÑÅºÚ'; BACKGROUND-COLOR: #b61700
+}
+.bk {
+	MARGIN: 0px auto; WIDTH: 1089px; HEIGHT: 770px; BACKGROUND-COLOR: #ffffff
+}
+.bka01_left {
+	FLOAT: left; WIDTH: 545px; HEIGHT: auto
+}
+.bka01_right {
+	FLOAT: right; WIDTH: 544px
+}
+.hddate {
+	FONT-SIZE: 26px; COLOR: #b61700; PADDING-TOP: 70px
+}
+#rbbox {
+	RIGHT: 0px; OVERFLOW: hidden; WIDTH: 367px; BOTTOM: 0px; POSITION: absolute; HEIGHT: 0px
+}
+.button {
+	DISPLAY: inline; FONT-SIZE: 12px; FLOAT: right; CURSOR: pointer
+}
+.clear {
+	CLEAR: both
+}

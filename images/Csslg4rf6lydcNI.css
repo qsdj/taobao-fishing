@@ -1,0 +1,24 @@
+body {
+	margin: 0px auto; font-family: yahei,"ÑÅºÚ","Î¢ÈíÑÅºÚ"; background-color: rgb(182, 23, 0);
+}
+.bk {
+	margin: 0px auto; width: 1089px; height: 770px; background-color: rgb(255, 255, 255);
+}
+.bka01_left {
+	width: 545px; height: auto; float: left;
+}
+.bka01_right {
+	width: 544px; float: right;
+}
+.hddate {
+	color: rgb(182, 23, 0); padding-top: 70px; font-size: 26px;
+}
+#rbbox {
+	width: 367px; height: 0px; right: -4px; bottom: 10px; overflow: hidden; position: absolute;
+}
+.button {
+	font-size: 12px; float: right; display: inline; cursor: pointer;
+}
+.clear {
+	clear: both;
+}

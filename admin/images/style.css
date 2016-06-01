@@ -1,0 +1,39 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.button
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 30px;
+	width:95px;
+	border:none;	
+	background: url(suba.gif) no-repeat;
+	color:#FFFFFF;
+}
+.inputtext
+{
+	height:25px;
+	line-height:25px;
+	padding:0px;
+	margin:0px;
+	padding-left:2px;
+}
+td
+{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+a:link {font-size:12px; text-decoration:none; color:#000;}
+a:visited {font-size:12px; text-decoration:none; color:#000;}
+a:hover {font-size:12px; text-decoration:none; color:#ff7633;}
+.title
+{
+	background-image: url(../images/tab_14.gif);
+	font-size:12px;
+	font-weight:bold;
+}
